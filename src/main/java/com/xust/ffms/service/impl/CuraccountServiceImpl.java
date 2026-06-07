@@ -71,3 +71,5 @@ public class CuraccountServiceImpl implements CuraccountService {
 // MOD: 2026-05-08
 
 // MOD: 2026-05-19
+
+// MOD: 2026-06-07
