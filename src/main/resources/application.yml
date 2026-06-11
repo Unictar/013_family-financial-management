@@ -47,3 +47,5 @@ server:
   resources:
     #静态资源扫描
     static-locations: classpath:/WEB-INF/resources/
+
+// MOD: 2026-06-11
