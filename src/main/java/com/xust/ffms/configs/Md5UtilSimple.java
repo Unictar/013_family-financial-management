@@ -37,3 +37,5 @@ public class Md5UtilSimple {
         System.out.println("==> MD5 加密后: " + md5HexStr);
     }
 }
+
+// MOD: 2026-06-12
